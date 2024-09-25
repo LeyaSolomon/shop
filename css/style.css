@@ -1,1 +1,14 @@
-@import "content.css";
+body{
+    background: rgb(248, 232, 234);
+
+}
+
+h1{
+ color: rgb(220, 78, 118);
+ font-size: 25px;
+}
+
+h2{
+    color: rgb(231, 128, 183);
+    font-size:  18px;
+}
